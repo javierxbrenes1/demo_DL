@@ -6,5 +6,4 @@ https://git-disl.github.io/GTDLBench/datasets/mnist_datasets/
 
 
 Para correr este codigo se requiere tener instalado:
-R 
-Nodejs
+R y Node.js
